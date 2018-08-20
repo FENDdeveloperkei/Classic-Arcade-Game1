@@ -32,7 +32,7 @@ class Entity {
 class Player extends Entity {
 	constructor() {
 		super();
-		this.sprite += 'char-girl.png';
+		this.sprite += 'char-boy.png';
 		this.moving = false; //
 		this.win = false;
 		this.score = 0;
