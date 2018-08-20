@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [How To Play](#how-to-play)
 * [Contributing](#contributing)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
@@ -12,6 +13,14 @@
 This game requires JavaScript to run. In order to run the game, load the index.html file in a web browser.
 
 The goal of the game is to get your player from the grass to the water without hitting any enemy bugs. You can use the arrow keys to move your player around. If you collide with a bug, the game will reset back to the beginning. When you reach the water, you win the game!
+
+## How to play
+
+In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies. 
+* The player can move left, right, up and down. 
+* The enemies move in varying speeds on the paved block portion of the scene. 
+* Once a the player collides with an enemy, the game is reset and the player moves back to the start square. 
+* Once the player reaches the water the game is won.
 
 ## Contributing
 
