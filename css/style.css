@@ -1,7 +1,6 @@
 body {
     text-align: center;
     background: linear-gradient(160deg, #8F47B3 0%, #fefefe 60%, #20B2AA 100%);
-    font-family: 'Monoton', cursive;
 }
 
 .container {
@@ -12,12 +11,12 @@ body {
 }
 
 .game_title {
-    font-family: 'Monoton', sans-serif;
+    font-family: 'Times Roman', sans-serif;
     font-size: 40px;
     color: #03bb85;
 }
 h2 {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Times Roman', sans-serif;
 	}
 
 
