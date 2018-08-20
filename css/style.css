@@ -1,3 +1,52 @@
 body {
     text-align: center;
+    font-family: 'Monoton', cursive;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 160px 50px;
+    background: linear-gradient(160deg, #8F47B3 0%, #fefefe 60%, #20B2AA 100%);
+}
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.game_title {
+    font-family: 'Monoton', sans-serif;
+    font-size: 48px;
+    color: #03bb85;
+}
+h2 {
+    font-family: 'Arial', cursive;
+	color: #03bb85;
+	background-color: #8F47B3;
+	text-align: center;
+	width: 250px;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	cursor: default;
+	opacity: 0.8;
+}
+
+
+footer {
+    background-color: #03bb85;
+    color: #fefefe;
+    padding: 24px;
+    text-align: center;
+}
+
+footer a {
+    color: #20B2AA;
+}
+
+footer a:hover {
+    color: #433F5D;
+    text-decoration: none;
 }
